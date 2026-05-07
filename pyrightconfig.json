@@ -1,0 +1,7 @@
+{
+  "pythonVersion": "3.11",
+  "venvPath": ".",
+  "pythonPlatform": "All",
+  "include": ["app", "api"],
+  "extraPaths": ["."]
+}

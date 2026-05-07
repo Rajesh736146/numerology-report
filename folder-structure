@@ -1,0 +1,28 @@
+numerology-ai/
+│
+├── app/
+│   ├── main.py
+│   │
+│   ├── api/
+│   │   └── numerology.py
+│   │
+│   ├── services/
+│   │   ├── numerology_service.py
+│   │   ├── chaldean_service.py
+│   │   ├── suggestion_service.py
+│   │   ├── loshu_service.py
+│   │   └── scoring_service.py
+│   │
+│   ├── constants/
+│   │   ├── chaldean_chart.py
+│   │   ├── compounds.py
+│   │   └── mutation_rules.py
+│   │
+│   ├── models/
+│   │   └── numerology_models.py
+│   │
+│   └── utils/
+│       └── helper.py
+│
+├── requirements.txt
+└── run.py
